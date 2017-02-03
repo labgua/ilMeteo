@@ -1,7 +1,8 @@
 # SHT71 : Acquisizione e Trasmissione Real-Time
+![Image of Yaktocat](http://labpacinotti.altervista.org/css/logo.png)
 ## Descrizione Software del progetto
- Anno di progettazione : 2012 
- [Link alla relazione tecnica](http://www.itipacinotti.gov.it/pagine/download/Acquisizione_a.pdf)
+Anno di progettazione : 2012/13 
+[Link alla relazione tecnica](http://www.itipacinotti.gov.it/pagine/download/Acquisizione_a.pdf)
 
 ## Scopo del progetto
 Si vuole realizzare un sistema metereologico su scala nazionale che si in grado di misurare la temperatura e l'umidità. Per fare ciò è necessario poter costruire delle unità che possano essere posizionarte in punti differenti.
