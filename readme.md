@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/80862116.svg)](https://zenodo.org/badge/latestdoi/80862116)
+
 # SHT71 : Acquisizione e Trasmissione Real-Time
 ![Image of Yaktocat](http://labpacinotti.altervista.org/css/logo.png)
 ## Descrizione Software del progetto
